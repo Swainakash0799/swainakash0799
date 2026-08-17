@@ -32,46 +32,8 @@
 ---
 
 # 🛠️ Tech Stack
-
-### 💻 Languages
-
 <p>
-<img src="https://skillicons.dev/icons?i=python,mysql,html,css"/>
-</p>
-
-### 🚀 Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=fastapi,django,flask"/>
-</p>
-
-### 🤖 AI & Machine Learning
-
-<p>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow"/>
-</p>
-
-- LangChain
-- LangGraph
-- OpenAI
-- Gemini
-- Groq
-- Scikit-learn
-
-### 📊 Data Science
-
-<p>
-<img src="https://skillicons.dev/icons?i=opencv"/>
-</p>
-
-- Pandas
-- NumPy
-- Matplotlib
-
-### 🛠 Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode"/>
+<img src="https://skillicons.dev/icons?i=python,mysql,fastapi,pytorch,tensorflow,opencv,jupyter,sklearn,git,github,docker,vscode,aws,openai&perline=50"/>
 </p>
 
 ---
