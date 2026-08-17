@@ -33,7 +33,7 @@
 
 # 🛠️ Tech Stack
 <p>
-<img src="https://skillicons.dev/icons?i=python,mysql,fastapi,pytorch,tensorflow,opencv,jupyter,sklearn,git,github,docker,vscode,aws,openai&perline=50"/>
+<img src="https://skillicons.dev/icons?i=python,mysql,postgres,fastapi,pytorch,tensorflow,sklearn,git,github,docker,vscode,aws,html,css&perline=50"/>
 </p>
 
 ---
