@@ -40,12 +40,12 @@
 
 # 🚀 Featured Projects
 
-## 🤖 Enterprise RAG Assistant
+## 🤖 Advanced RAG Assistant
 
 **🔗 Repository:**  
-https://github.com/Swainakash0799/IntelliDocs-AI
+https://github.com/Swainakash0799/IntelliDocs-AI-Advanced-RAG-Assistant
 
-- Enterprise-grade Retrieval-Augmented Generation system.
+- Advanced Retrieval-Augmented Generation system.
 - Hybrid Search (Vector + BM25)
 - Multi-document support
 - Source citations
@@ -54,7 +54,7 @@ https://github.com/Swainakash0799/IntelliDocs-AI
 
 **Tech Stack**
 
-`LangChain` • `ChromaDB` • `FastAPI` • `Streamlit` • `Groq`
+`LangChain` • `ChromaDB` • `Crossencoder` • `Streamlit` • `Groq LLM`
 
 ---
 
@@ -70,7 +70,7 @@ https://github.com/Swainakash0799/ResearchFlow-AI-System
 
 **Tech Stack**
 
-`LangGraph` • `LangChain` • `Groq` • `FastAPI`
+`LangGraph` • `LangChain` • `Groq LLM` • `Tavily`
 
 ---
 
