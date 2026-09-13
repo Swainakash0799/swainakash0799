@@ -100,6 +100,27 @@ https://github.com/Swainakash0799/ResearchFlow-AI-System
 
 ---
 
+# 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Swainakash0799/Swainakash0799/output/snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Swainakash0799/Swainakash0799/output/snake-light.svg"
+    />
+    <img
+      alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/Swainakash0799/Swainakash0799/output/snake-light.svg"
+    />
+  </picture>
+</p>
+
+---
+
 # 💻 Coding Profiles
 
 <p align="center">
