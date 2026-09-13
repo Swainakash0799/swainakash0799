@@ -15,10 +15,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Building+AI+Applications;Developing+LLM+Powered+Systems;Learning+Something+New+Every+Day;Open+to+Collaboration"/>
 </p>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Swainakash0799&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
-</p>
-
 ---
 
 # 🧠 About Me
@@ -100,27 +96,6 @@ https://github.com/Swainakash0799/ResearchFlow-AI-System
 
 ---
 
-# 🐍 Contribution Snake
-
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/Swainakash0799/Swainakash0799/output/snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/Swainakash0799/Swainakash0799/output/snake-light.svg"
-    />
-    <img
-      alt="GitHub Contribution Snake"
-      src="https://raw.githubusercontent.com/Swainakash0799/Swainakash0799/output/snake-light.svg"
-    />
-  </picture>
-</p>
-
----
-
 # 💻 Coding Profiles
 
 <p align="center">
@@ -150,15 +125,32 @@ https://github.com/Swainakash0799/ResearchFlow-AI-System
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
+<a href="https://github.com/Swainakash0799" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 </p>
 
 ---
 
-# 📫 Reach Me
+# 🐍 Contribution Snake
 
-- 📧 Email: **kumarswaina27@gmail.com**
-- 💼 LinkedIn: **https://linkedin.com/in/akashswain0799**
-- 🌐 GitHub: **https://github.com/Swainakash0799**
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Swainakash0799/Swainakash0799/output/snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Swainakash0799/Swainakash0799/output/snake-light.svg"
+    />
+    <img
+      alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/Swainakash0799/Swainakash0799/output/snake-light.svg"
+    />
+  </picture>
+</p>
 
 ---
 
