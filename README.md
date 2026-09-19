@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Akash Swain</h1>
 
 <h3 align="center">
-🤖 AI Engineer &nbsp;|&nbsp;
-🧠 Generative AI &nbsp;|&nbsp;
-⚡ Agentic AI &nbsp;|&nbsp;
+  AI Engineer &nbsp;|&nbsp;
+  Generative AI &nbsp;|&nbsp;
+  Agentic AI &nbsp;|&nbsp;
 📊 Data Science
 </h3>
 
@@ -17,13 +17,13 @@
 
 ---
 
-# 🧠 About Me
+# About Me
 
-- 🤖 Passionate about building AI applications powered by Large Language Models.
-- ⚡ Interested in Generative AI, Agentic AI, Retrieval-Augmented Generation (RAG), and Machine Learning.
-- 🚀 Building end-to-end AI systems using LangChain, LangGraph, FastAPI, and modern LLM frameworks.
-- 📚 Currently exploring AI Infrastructure, MLOps, LLM Evaluation, and scalable AI deployment.
-- 🤝 Open to collaborating on AI, LLM, Open Source, and research-driven projects.
+- Passionate about building AI applications powered by Large Language Models.
+- Interested in Generative AI, Agentic AI, Retrieval-Augmented Generation (RAG), and Machine Learning.
+- Building end-to-end AI systems using LangChain, LangGraph, FastAPI, and modern LLM frameworks.
+- Currently exploring AI Infrastructure, MLOps, LLM Evaluation, and scalable AI deployment.
+- Open to collaborating on AI, LLM, Open Source, and research-driven projects.
 
 ---
 
@@ -36,7 +36,7 @@
 
 # 🚀 Featured Projects
 
-## 🤖 Advanced RAG Assistant
+## Advanced RAG Assistant
 
 **🔗 Repository:**  
 https://github.com/Swainakash0799/IntelliDocs-AI-Advanced-RAG-Assistant
@@ -54,7 +54,7 @@ https://github.com/Swainakash0799/IntelliDocs-AI-Advanced-RAG-Assistant
 
 ---
 
-## 🧠 ResearchFlow AI System
+## ResearchFlow AI System
 
 **🔗 Repository:**  
 https://github.com/Swainakash0799/ResearchFlow-AI-System
