@@ -4,7 +4,7 @@
   AI Engineer &nbsp;|&nbsp;
   Generative AI &nbsp;|&nbsp;
   Agentic AI &nbsp;|&nbsp;
-📊 Data Science
+  Data Science
 </h3>
 
 <h4 align="center">
